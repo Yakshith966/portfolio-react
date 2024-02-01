@@ -3,9 +3,9 @@ import { getImageUrl } from '../../utils';
 import styles from './Contact.module.css';
 
 export const Contact = () => {
-  return <footer id="contact" className={styles.container}>
-    <div className={styles.text}><h2>Contact 
-        <p>Feel free to reach out</p>
+    return <footer id="contact" className={styles.container}>
+        <div className={styles.text}><h2>Contact
+            <p>Feel free to reach out</p>
         </h2>
         </div>
         <ul className={styles.links}>
@@ -23,5 +23,5 @@ export const Contact = () => {
             </li>
 
         </ul>
-  </footer>
+    </footer>
 }

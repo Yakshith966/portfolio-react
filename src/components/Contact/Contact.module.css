@@ -31,7 +31,7 @@
 .link{
     display: flex;
     align-items: center;
-    gap: 25px;
+    gap: 20px;
 }
 .link a{
     color: var(--color-text);
@@ -39,6 +39,39 @@
     font-size: 30px;
     font-weight: 400;
     letter-spacing: 1.5px;
+}
+@media screen and (max-width:500px) {
+    .container{
+        flex-direction: column;
+        gap: 23px;
+    }
+    .text{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .links{
+        margin-right: 20px;
+    }
+    
+    .links a{
+       font-size: calc(10px+2vw);
+       align-items: center; 
+       text-align: center;
+       margin:0 20px ;
+    }
+    .text h2{
+        font-size: 50px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        text-align: center;
+    }
+    .text p{
+        font-size: 25px;
+        font-weight: 400;
+        /* letter-spacing: 2px; */
+    }
+    
 }
 @media screen and (max-width:830px) {
     .container{
@@ -50,7 +83,86 @@
         flex-direction: column;
         align-items: center;
     }
-    .links{
+    
+    .links li{
+       font-size: 130%;
+       display: flex;
+       align-items: center; 
+       text-align: center;
+       justify-content: center;
+       /* margin:0 80px ; */
+    }
+    .text h2{
+        font-size: 50px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        text-align: center;
+    }
+    .text p{
+        font-size: 25px;
+        font-weight: 400;
+        /* letter-spacing: 2px; */
+    }
+    
+}
+@media screen and (max-width:607px) {
+    .container{
+        flex-direction: column;
+        gap: 23px;
+    }
+    .text{
+        display: flex;
+        flex-direction: column;
         align-items: center;
     }
+    
+    .links a{
+       font-size: 100%;
+       /* display: flex;
+       align-items: center; 
+       text-align: center;
+       justify-content: center; */
+       /* margin:0 80px ; */
+    }
+    .text h2{
+        font-size: 50px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        text-align: center;
+    }
+    .text p{
+        font-size: 25px;
+        font-weight: 400;
+        /* letter-spacing: 2px; */
+    }
+    
+}
+@media screen and (max-width:480px) {
+  
+    
+    .links a{
+       font-size: 70%;
+       display: flex;
+       align-items: center; 
+       text-align: center;
+       justify-content: center;
+       /* margin:0 80px ; */
+    }
+    
+    
+}
+@media screen and (max-width:386px) {
+  
+    
+    .link a{
+      display: none;
+    }
+    .links{
+        display: flex;
+        flex-direction: row;
+        /* align-items: center; */
+        justify-content: center;
+    }
+    
+    
 }

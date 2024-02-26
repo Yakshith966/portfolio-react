@@ -34,7 +34,7 @@
       {
       "title": "CMS project",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Where the user can add custom text images to their website which has admin dashboard.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"

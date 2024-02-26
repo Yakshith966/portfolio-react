@@ -26,7 +26,7 @@
       {
       "title": "Vege Market",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "This is a platform which is used to sell vegetables online.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"

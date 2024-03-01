@@ -22,8 +22,9 @@
       "endDate": "Jun, 2020",
       "experiences": [
         "Worked on component library",
-        "Helped create UI components"
+        "Helped create UI components",
+           "imageSrc": "history/netflix.png"
       ],
-      "imageSrc": "history/netflix.png"
+     
     }
   ]

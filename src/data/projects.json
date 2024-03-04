@@ -56,4 +56,13 @@
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
+    ,
+     {
+      "title": "CRUD Operations",
+      "imageSrc": "projects/project.png",
+      "description": "Where the user can add custom text images to their website which has admin dashboard.",
+      "skills": ["React", "Express", "Node","java"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
   ]

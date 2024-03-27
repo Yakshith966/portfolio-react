@@ -1,1 +1,70 @@
+[
+    {
+      "title": "React Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+   
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+
+      {
+      "title": "Vege Market",
+      "imageSrc": "projects/project.png",
+      "description": "This is a platform which is used to sell vegetables online.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+      {
+      "title": "CMS project",
+      "imageSrc": "projects/project.png",
+      "description": "Where the user can add custom text images to their website which has admin dashboard.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "CRUD Operations",
+      "imageSrc": "projects/project.png",
+      "description": "Where the user can add custom text images to their website which has admin dashboard.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "CRUD Operations",
+      "imageSrc": "projects/project.png",
+      "description": "Where the user can add custom text images to their website which has admin dashboard.",
+      "skills": ["React", "Express", "Node","java"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+     {
+      "title": "CRUD Operations",
+      "imageSrc": "projects/project.png",
+      "description": "Where the user can add custom text images to their website which has admin dashboard.",
+      "skills": ["React", "Express", "Node","java"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+    ,
+     {
+      "title": "CRUD Operations",
+      "imageSrc": "projects/project.png",
+      "description": "Where the user can add custom text images to their website which has admin dashboard.",
+      "skills": ["React", "Express", "Node","java"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
 
